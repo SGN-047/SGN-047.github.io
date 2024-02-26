@@ -54,7 +54,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/dune.png
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -86,7 +86,7 @@ params:
     # Enable and configure blog posts
     blog:
       enable: true
-      showAuthor: true # shows the author of post (defaults true)
+      showAuthor: false# shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
         facebook: true
